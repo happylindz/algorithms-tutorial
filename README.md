@@ -18,4 +18,8 @@
 
 [在一个数组中寻找一个出现仅一次/两次/三次的数](https://github.com/happylindz/algorithms-tutorial/tree/master/findNumberInArray)
 
+### LeetCode:
+
+* [169/239 Majority Element I/II](https://github.com/happylindz/algorithms-tutorial/tree/master/leetcode/MajorityElement)
+
 
