@@ -20,6 +20,8 @@
 
 LeetCode:
 
-* [169/239 Majority Element I/II](https://github.com/happylindz/algorithms-tutorial/tree/master/leetcode/MajorityElement)
+* [1. Two Sum]((https://github.com/happylindz/algorithms-tutorial/tree/master/leetcode/twoSum)
+* [169. Majority Element I](https://github.com/happylindz/algorithms-tutorial/tree/master/leetcode/MajorityElement)
+* [239. Majority Element II](https://github.com/happylindz/algorithms-tutorial/tree/master/leetcode/MajorityElement)
 
 
