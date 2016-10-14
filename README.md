@@ -20,8 +20,8 @@
 
 LeetCode:
 
-* [1. Two Sum]((https://github.com/happylindz/algorithms-tutorial/tree/master/leetcode/twoSum)
+* [1. Two Sum](https://github.com/happylindz/algorithms-tutorial/tree/master/leetcode/TwoSum)
 * [169. Majority Element I](https://github.com/happylindz/algorithms-tutorial/tree/master/leetcode/MajorityElement)
 * [239. Majority Element II](https://github.com/happylindz/algorithms-tutorial/tree/master/leetcode/MajorityElement)
-
+* [279. Perfect Squares](https://github.com/happylindz/algorithms-tutorial/tree/master/leetcode/PerfectSquares)
 
