@@ -25,5 +25,6 @@ LeetCode:
 * [239. Majority Element II](https://github.com/happylindz/algorithms-tutorial/tree/master/leetcode/MajorityElement)
 * [279. Perfect Squares](https://github.com/happylindz/algorithms-tutorial/tree/master/leetcode/PerfectSquares)
 * [268. Missing Number](https://github.com/happylindz/algorithms-tutorial/tree/master/leetcode/MissingNumber)
+* [334. Increasing Triplet Subsequence](https://github.com/happylindz/algorithms-tutorial/tree/master/leetcode/IncreasingTriplet)
 
 
