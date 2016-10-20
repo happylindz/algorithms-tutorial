@@ -17,6 +17,9 @@
 ## Catalog:
 
 [在一个数组中寻找一个出现仅一次/两次/三次的数](https://github.com/happylindz/algorithms-tutorial/tree/master/findNumberInArray)
+[不用算数运算符对两数求和](https://github.com/happylindz/algorithms-tutorial/tree/master/APlusB)
+[爬台阶问题](https://github.com/happylindz/algorithms-tutorial/tree/master/ClimbStairs)
+[奇偶排序](https://github.com/happylindz/algorithms-tutorial/tree/master/OddEvenSort)
 
 LeetCode:
 
@@ -28,5 +31,12 @@ LeetCode:
 * [279. Perfect Squares](https://github.com/happylindz/algorithms-tutorial/tree/master/leetcode/PerfectSquares)
 * [268. Missing Number](https://github.com/happylindz/algorithms-tutorial/tree/master/leetcode/MissingNumber)
 * [334. Increasing Triplet Subsequence](https://github.com/happylindz/algorithms-tutorial/tree/master/leetcode/IncreasingTriplet)
+
+LintCode: 
+
+* [57. 三数之和](https://github.com/happylindz/algorithms-tutorial/tree/master/lintcode/ThreeSum)
+* [59. 最接近的三数之和](https://github.com/happylindz/algorithms-tutorial/tree/master/lintcode/ThreeSum)
+
+
 
 
