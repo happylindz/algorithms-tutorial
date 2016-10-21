@@ -16,10 +16,10 @@
 
 ## Catalog:
 
-[在一个数组中寻找一个出现仅一次/两次/三次的数](https://github.com/happylindz/algorithms-tutorial/tree/master/findNumberInArray)    
-[不用算数运算符对两数求和](https://github.com/happylindz/algorithms-tutorial/tree/master/APlusB)    
-[爬台阶问题](https://github.com/happylindz/algorithms-tutorial/tree/master/ClimbStairs)   
-[奇偶排序](https://github.com/happylindz/algorithms-tutorial/tree/master/OddEvenSort)   
+* [在一个数组中寻找一个出现仅一次/两次/三次的数](https://github.com/happylindz/algorithms-tutorial/tree/master/others/findNumberInArray)    
+* [不用算数运算符对两数求和](https://github.com/happylindz/algorithms-tutorial/tree/master/others/APlusB)    
+* [爬台阶问题](https://github.com/happylindz/algorithms-tutorial/tree/master/others/ClimbStairs)   
+* [奇偶排序](https://github.com/happylindz/algorithms-tutorial/tree/master/others/OddEvenSort)   
 
 LeetCode:
 
@@ -36,6 +36,11 @@ LintCode:
 
 * [57. 三数之和](https://github.com/happylindz/algorithms-tutorial/tree/master/lintcode/ThreeSum)
 * [59. 最接近的三数之和](https://github.com/happylindz/algorithms-tutorial/tree/master/lintcode/ThreeSum)
+* [69. 二叉树的层次遍历](https://github.com/happylindz/algorithms-tutorial/tree/master/lintcode/Tree/LevelOrder)
+* [70. 二叉树的层次遍历 II](https://github.com/happylindz/algorithms-tutorial/tree/master/lintcode/Tree/LevelOrder)
+* [71. 二叉树的锯齿形层次遍历](https://github.com/happylindz/algorithms-tutorial/tree/master/lintcode/Tree/LevelOrder)
+
+
 
 
 
