@@ -45,6 +45,7 @@ LintCode:
 * [97. 二叉树的最大深度](https://github.com/happylindz/algorithms-tutorial/tree/master/lintcode/Tree/MaximumDepth)
 * [392. 打劫房屋](https://github.com/happylindz/algorithms-tutorial/tree/master/lintcode/HouseRobber)
 * [512. 解码方法](https://github.com/happylindz/algorithms-tutorial/tree/master/lintcode/Decodings)
+* [514. 栅栏染色](https://github.com/happylindz/algorithms-tutorial/tree/master/lintcode/NumKeys)
 * [534. 打劫房屋 II](https://github.com/happylindz/algorithms-tutorial/tree/master/lintcode/HouseRobber)
 * [535. 打劫房屋 III](https://github.com/happylindz/algorithms-tutorial/tree/master/lintcode/HouseRobber)
 
