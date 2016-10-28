@@ -39,6 +39,7 @@ LintCode:
 * [69. 二叉树的层次遍历](https://github.com/happylindz/algorithms-tutorial/tree/master/lintcode/Tree/LevelOrder)
 * [70. 二叉树的层次遍历 II](https://github.com/happylindz/algorithms-tutorial/tree/master/lintcode/Tree/LevelOrder)
 * [71. 二叉树的锯齿形层次遍历](https://github.com/happylindz/algorithms-tutorial/tree/master/lintcode/Tree/LevelOrder)
+* [76. 最长上升子序列](https://github.com/happylindz/algorithms-tutorial/tree/master/lintcode/LongestIncreasingSubsequence)
 * [92.背包问题](https://github.com/happylindz/algorithms-tutorial/tree/master/lintcode/Backpack)
 * [125. 背包问题 II](https://github.com/happylindz/algorithms-tutorial/tree/master/lintcode/Backpack)
 * [93. 平衡二叉树](https://github.com/happylindz/algorithms-tutorial/tree/master/lintcode/Tree/BalancedTree)
