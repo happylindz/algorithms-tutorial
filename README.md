@@ -45,6 +45,8 @@ LintCode:
 * [125. 背包问题 II](https://github.com/happylindz/algorithms-tutorial/tree/master/lintcode/Backpack)
 * [93. 平衡二叉树](https://github.com/happylindz/algorithms-tutorial/tree/master/lintcode/Tree/BalancedTree)
 * [97. 二叉树的最大深度](https://github.com/happylindz/algorithms-tutorial/tree/master/lintcode/Tree/MaximumDepth)
+* [159. 寻找旋转排序数组中的最小值](https://github.com/happylindz/algorithms-tutorial/tree/master/lintcode/FindMin)
+* [160. 寻找旋转排序数组中的最小值 II](https://github.com/happylindz/algorithms-tutorial/tree/master/lintcode/FindMin)
 * [392. 打劫房屋](https://github.com/happylindz/algorithms-tutorial/tree/master/lintcode/HouseRobber)
 * [512. 解码方法](https://github.com/happylindz/algorithms-tutorial/tree/master/lintcode/Decodings)
 * [514. 栅栏染色](https://github.com/happylindz/algorithms-tutorial/tree/master/lintcode/NumKeys)
