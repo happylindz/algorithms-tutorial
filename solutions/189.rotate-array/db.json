@@ -1,0 +1,1 @@
+{"javascript":"/**\r\n * @param {number[]} nums\r\n * @param {number} k\r\n * @return {void} Do not return anything, modify nums in-place instead.\r\n */\r\nvar rotate = function(nums, k) {\r\n    \r\n    for(var i = 0; i < k; i++){\r\n        \r\n        var removed = nums.pop();\r\n        \r\n        nums.unshift(removed);\r\n    }\r\n    \r\n};"}

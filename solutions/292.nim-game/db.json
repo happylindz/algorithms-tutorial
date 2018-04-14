@@ -1,0 +1,1 @@
+{"javascript":"/**\r\n * @param {number} n\r\n * @return {boolean}\r\n */\r\nvar canWinNim = function(n) {\r\n    return n % 4 != 0;\r\n};"}
